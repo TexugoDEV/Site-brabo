@@ -1,0 +1,46 @@
+body{
+    background-image: url(Imagens/Background1.png);
+    text-align: center;
+    
+}
+
+.b1{
+    font-size: 300%;
+    display:inline-flex, inline;
+    margin: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.d1{
+    padding-left:15px ;
+    display:flex ;
+   
+}
+
+div:hover :not(:hover), .t1{
+    opacity: 0.6;
+    
+    
+   
+}
+
+img:hover{
+    scale: 1.1;
+    
+}
+
+.i1, .i2, .i3, .i4{
+    padding: 25px;
+}
+
+.t1:hover{
+    padding:20px;
+    font-family:Arial;
+    text-align:center;
+    color:white;
+    opacity:0;
+    transition: opacity .2s linear;
+    background-color:rgba(0,0,0,.7);
+}
+

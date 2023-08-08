@@ -1,0 +1,47 @@
+body{
+    background-image: url(Imagens/lorna\ shore\ background.jpg);
+    background-color: rgba(45,33,53,255);
+    background-repeat: ;
+    background: size: cover;
+    /*backdrop-filter:blur(8px);*/
+}
+.pl1{
+    padding-left: 200px;
+}
+.p1,.p2,.p3,.p4,.p5{
+    padding-right: 100px;
+    color: aliceblue;
+    text-shadow: 
+    -1px -1px 0 black,
+     1px -1px 0 black,
+     -1px 1px 0 black,
+     1px 1px 0 black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   
+}
+.box1,.box2,.box3,.box4,.box5{
+    display: flex;
+    align-items: center;
+}
+.b1{
+    text-align: center;
+    color:aliceblue;
+    padding-left:875px;
+    text-shadow: 
+    -1px -1px 0 black,
+     1px -1px 0 black,
+     -1px 1px 0 black,
+     1px 1px 0 black;
+}
+.b2{
+    text-align: center;
+    color:rgb(0, 136, 255);
+    padding-left:875px;
+    text-shadow: 
+    -1px -1px 0 black,
+     1px -1px 0 black,
+     -1px 1px 0 black,
+     1px 1px 0 black;
+}
